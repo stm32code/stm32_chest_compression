@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">蓝牙胸部按压监测仪</string>
+    <string name="debug">调试</string>
+    <string name="history">历史数据</string>
+    <string name="setting">设置</string>
+</resources>

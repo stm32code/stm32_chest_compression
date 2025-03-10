@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "mpuiic.h": "c",
+            "key.h": "c",
+            "git.h": "c",
+            "esp8266.h": "c",
+            "stdio.h": "c",
+            "oled.h": "c",
+            "mpu6050.h": "c"
+        }
+    },
+    "extensions": {}
+}
